@@ -1,7 +1,8 @@
 import { useChatStore } from "../store/useChatStore";
 
 import Sidebar from "../components/Sidebar";
-import NoChatSelected from "../components/NoChatSelected";
+import NoChatSelected from "../components/NochatSelected";  // match the exact filename
+
 import ChatContainer from "../components/ChatContainer";
 
 const HomePage = () => {
